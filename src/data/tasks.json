@@ -1,0 +1,6 @@
+{
+    "tasks": [
+        { "text": "Learn React", "completed": false },
+        { "text": "Build a Todo App", "completed": false }
+    ]
+}
