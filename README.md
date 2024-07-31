@@ -18,7 +18,7 @@ Go to the project directory
 
 ```bash
 
-open project in vs code and opern live server and view it
+open project in vs code and open live server and view it
 ```
 
  After doing this this application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
@@ -26,7 +26,7 @@ open project in vs code and opern live server and view it
 
 
 ## Key Features
-◉ Core Features:
+
 ## Create Task: Allow users to add new tasks.
 ## Update Task: Allow users to edit existing tasks.
 ## Mark as Done: Allow users to mark tasks as completed.
